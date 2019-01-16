@@ -24,8 +24,8 @@ In-Depth Class Descriptions - https://www.youtube.com/playlist?list=PLQMqiULo_05
 (NaDDpod) Not Another DnD podcast - https://open.spotify.com/show/5GcTIDkgnB9wP6CmUyOSqa?si=kUPPwzmTSdOP5NRlox95lg
 
 The Adventure Zone - https://open.spotify.com/show/6OoAQesdLgYBOyfx8ji0bZ?si=5UG8mAJ2T52YlUcv8EzkWA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-May contain spoilers to our coming adventure, listen to NaDDpod first
+^^^^^^^^^^^^^^^May contain spoilers to our coming adventure, listen to NaDDpod first^^^^^^^^^^^^^^
+
 
 
 ## Things you should download
